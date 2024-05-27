@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri May  3 13:42:58 2024
+Vpthon designed Analog Clock that uses the system time to keep accurate time
 
 @author: Nsikan
 """
